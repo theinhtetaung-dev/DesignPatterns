@@ -6,22 +6,21 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.Singleton;
 
-public class ConfigSetting
+public class ConfigSettingV2
 {
-    public static ConfigSetting _instance;
+    private static ConfigSettingV2 _instance;
+    public String dbConnectionString { get; set; }
 
-    public string DbConnectionString { get; set; }
-
-    private ConfigSetting()
+    public ConfigSettingV2(string _dbConnectionString)
     {
-        DbConnectionString = "Server=myServer;Database=myDataBase;User Id=myUsername;Password=myPassword;";
+        dbConnectionString = _dbConnectionString;
     }
 
-    public static ConfigSetting GetInstance()
+    public static ConfigSettingV2 GetInstance(string? dbConnectionString = null)
     {
         if (_instance == null)
         {
-            _instance = new ConfigSetting();
+            _instance = new ConfigSettingV2(dbConnectionString);
         }
         return _instance;
     }
