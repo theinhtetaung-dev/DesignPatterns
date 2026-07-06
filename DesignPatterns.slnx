@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Factory/">
+    <Project Path="DesignPatterns.Factory/DesignPatterns.Factory.csproj" Id="7682881f-6a6d-4bde-9f23-a66d27b96788" />
+  </Folder>
   <Folder Name="/Singleton/">
     <Project Path="DesignPatterns.Singleton/DesignPatterns.Singleton.csproj" />
   </Folder>
