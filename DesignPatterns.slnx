@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Builder/">
+    <Project Path="DesignPatterns.Builder/DesignPatterns.Builder.csproj" Id="3ad49a61-93d4-47a7-b379-e7b75e7724fe" />
+  </Folder>
   <Folder Name="/Factory/">
     <Project Path="DesignPatterns.Factory/DesignPatterns.Factory.csproj" Id="7682881f-6a6d-4bde-9f23-a66d27b96788" />
   </Folder>
