@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DesignPatterns.Factory;
+using DesignPatterns.Factory.Discounts;
 
 Console.Write("Input Amount : ");
 decimal amount = Convert.ToDecimal(Console.ReadLine());
