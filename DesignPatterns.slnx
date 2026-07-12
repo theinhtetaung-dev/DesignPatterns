@@ -8,6 +8,9 @@
   <Folder Name="/Decorator/">
     <Project Path="DesignPatterns.Decorator/DesignPatterns.Decorator.csproj" Id="605afac2-4587-49ce-b3b9-6851e7a71f5a" />
   </Folder>
+  <Folder Name="/Facade/">
+    <Project Path="DesignPatterns.Facade/DesignPatterns.Facade.csproj" Id="170d88a6-0ca9-48ee-a8d4-6776aadbd3e6" />
+  </Folder>
   <Folder Name="/Factory/">
     <Project Path="DesignPatterns.Factory/DesignPatterns.Factory.csproj" Id="7682881f-6a6d-4bde-9f23-a66d27b96788" />
   </Folder>
