@@ -14,6 +14,9 @@
   <Folder Name="/Factory/">
     <Project Path="DesignPatterns.Factory/DesignPatterns.Factory.csproj" Id="7682881f-6a6d-4bde-9f23-a66d27b96788" />
   </Folder>
+  <Folder Name="/Proxy/">
+    <Project Path="DesignPatterns.Proxy/DesignPatterns.Proxy.csproj" Id="442879b6-c935-4294-8389-3ad2ed1af78c" />
+  </Folder>
   <Folder Name="/Singleton/">
     <File Path="README.md" />
     <Project Path="DesignPatterns.Singleton/DesignPatterns.Singleton.csproj" />
