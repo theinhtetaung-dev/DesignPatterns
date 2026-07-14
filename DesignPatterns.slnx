@@ -5,6 +5,9 @@
   <Folder Name="/Builder/">
     <Project Path="DesignPatterns.Builder/DesignPatterns.Builder.csproj" Id="3ad49a61-93d4-47a7-b379-e7b75e7724fe" />
   </Folder>
+  <Folder Name="/Composite/">
+    <Project Path="DesignPatterns.Composite/DesignPatterns.Composite.csproj" Id="aaa825f1-1446-4e70-a600-19d6dd389c2e" />
+  </Folder>
   <Folder Name="/Decorator/">
     <Project Path="DesignPatterns.Decorator/DesignPatterns.Decorator.csproj" Id="605afac2-4587-49ce-b3b9-6851e7a71f5a" />
   </Folder>
