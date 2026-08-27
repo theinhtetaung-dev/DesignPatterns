@@ -17,6 +17,9 @@
   <Folder Name="/Factory/">
     <Project Path="DesignPatterns.Factory/DesignPatterns.Factory.csproj" Id="7682881f-6a6d-4bde-9f23-a66d27b96788" />
   </Folder>
+  <Folder Name="/Observer/">
+    <Project Path="DesignPatterns.Observer/DesignPatterns.Observer.csproj" Id="d87972b7-341d-4dae-a36e-e4d215e88b05" />
+  </Folder>
   <Folder Name="/Proxy/">
     <Project Path="DesignPatterns.Proxy/DesignPatterns.Proxy.csproj" Id="442879b6-c935-4294-8389-3ad2ed1af78c" />
   </Folder>
