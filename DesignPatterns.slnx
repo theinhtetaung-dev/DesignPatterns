@@ -27,4 +27,46 @@
     <File Path="README.md" />
     <Project Path="DesignPatterns.Singleton/DesignPatterns.Singleton.csproj" />
   </Folder>
+  <Folder Name="/Abstract Factory/">
+    <Project Path="DesignPatterns.AbstractFactory/DesignPatterns.AbstractFactory.csproj" />
+  </Folder>
+  <Folder Name="/Bridge/">
+    <Project Path="DesignPatterns.Bridge/DesignPatterns.Bridge.csproj" />
+  </Folder>
+  <Folder Name="/Chain of Responsibility/">
+    <Project Path="DesignPatterns.ChainOfResponsibility/DesignPatterns.ChainOfResponsibility.csproj" />
+  </Folder>
+  <Folder Name="/Command/">
+    <Project Path="DesignPatterns.Command/DesignPatterns.Command.csproj" />
+  </Folder>
+  <Folder Name="/Flyweight/">
+    <Project Path="DesignPatterns.Flyweight/DesignPatterns.Flyweight.csproj" />
+  </Folder>
+  <Folder Name="/Interpreter/">
+    <Project Path="DesignPatterns.Interpreter/DesignPatterns.Interpreter.csproj" />
+  </Folder>
+  <Folder Name="/Iterator/">
+    <Project Path="DesignPatterns.Iterator/DesignPatterns.Iterator.csproj" />
+  </Folder>
+  <Folder Name="/Mediator/">
+    <Project Path="DesignPatterns.Mediator/DesignPatterns.Mediator.csproj" />
+  </Folder>
+  <Folder Name="/Memento/">
+    <Project Path="DesignPatterns.Memento/DesignPatterns.Memento.csproj" />
+  </Folder>
+  <Folder Name="/Prototype/">
+    <Project Path="DesignPatterns.Prototype/DesignPatterns.Prototype.csproj" />
+  </Folder>
+  <Folder Name="/State/">
+    <Project Path="DesignPatterns.State/DesignPatterns.State.csproj" />
+  </Folder>
+  <Folder Name="/Strategy/">
+    <Project Path="DesignPatterns.Strategy/DesignPatterns.Strategy.csproj" />
+  </Folder>
+  <Folder Name="/Template Method/">
+    <Project Path="DesignPatterns.TemplateMethod/DesignPatterns.TemplateMethod.csproj" />
+  </Folder>
+  <Folder Name="/Visitor/">
+    <Project Path="DesignPatterns.Visitor/DesignPatterns.Visitor.csproj" />
+  </Folder>
 </Solution>
